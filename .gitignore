@@ -1,0 +1,16 @@
+*.pyc
+.vscode
+output
+build
+diff_rasterization/diff_rast.egg-info
+diff_rasterization/dist
+data
+dataset
+tensorboard_3d
+**/__pycache__/
+events.out*
+ckpts
+release
+eval_result*
+ckpt
+viz
